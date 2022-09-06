@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CentralEletrica</string>
+    <string name="levelslbl">Niveis: </string>
+    <string name="moveslbl">Jogadas: </string>
+    <string name="usernamelbl">Utilizador: </string>
+    <string name="passwordlbl">Palavra Chave: </string>
+    <string name="passworconfirmdlbl">Confirmacao Palavra Chave: </string>
+    <string name="loginlbl">Entrar</string>
+    <string name="registerlbl">Registar</string>
+    <string name="cancelbl">Cancelar</string>
+</resources>

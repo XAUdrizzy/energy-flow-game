@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PowerPlant</string>
+    <string name="levelslbl">Levels: </string>
+    <string name="moveslbl">Moves: </string>
+    <string name="usernamelbl">Username: </string>
+    <string name="passwordlbl">Password: </string>
+    <string name="passworconfirmdlbl">Password Confirm: </string>
+    <string name="loginlbl">LogIn</string>
+    <string name="registerlbl">Register</string>
+    <string name="cancelbl">Cancel</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "826081914466",
+    "project_id": "smagame-5c5c6",
+    "storage_bucket": "smagame-5c5c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826081914466:android:07c2d5558450d84f3aab3b",
+        "android_client_info": {
+          "package_name": "sma.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826081914466-jht2sjphbjuo5hp5323rv2fkaon1gr10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk4phL_ctLCsRtbVdltwQwD5RRL0yJPSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826081914466-jht2sjphbjuo5hp5323rv2fkaon1gr10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
