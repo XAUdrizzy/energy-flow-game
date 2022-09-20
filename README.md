@@ -4,7 +4,7 @@ This app was developed in Java with the Android Studio IDE.
 It's integrated with Firebase to allow users to sign in and keep track of their scores.
 
 ## Take a look!
-![Powerplant gameplay](Images/gameplay.png)
+![Powerplant gameplay](Images/gameplay.gif)
 ![Powerplant login](Images/login.png)
 ![Powerplant scores](Images/scores.png)
 
